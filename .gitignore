@@ -1,0 +1,31 @@
+.env
+*.json
+*.dat
+node_modules/
+.bash_history
+.gitconfig
+# Ignorar arquivos Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Ignorar configurações do PlatformIO
+.platformio/
+
+# Outros arquivos que você deseja ignorar
+*.class
+*.jar
+*.dll
+*.exe
+*.dat
+.vscode/
+node_modules/
+.bash_history
+.VirtualBox/
+.bash_history
+.cache/
+.chocolatey/
+.gitconfig
+.lesshst
+
